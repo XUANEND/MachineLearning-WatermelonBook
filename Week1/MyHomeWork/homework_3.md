@@ -1,5 +1,5 @@
 # 对数几率回归(逻辑回归)算法的语言描述
-**输入：** 数据集$D=\{(\boldsymbol{x}_1,y_1),(\boldsymbol{x}_2,y_2),...,(\boldsymbol{x}_m,y_m)\}, 其中\boldsymbol{x}_i=(x_{i1};x_{i2};...;x_{id}),y_i \in \{1, 0\}$  
+**输入：** 数据集$D=\{(\boldsymbol{x}_1,y_1),(\boldsymbol{x}_2,y_2),...,(\boldsymbol{x}_m,y_m)\}$, 其中$\boldsymbol{x}_i=(x_{i1};x_{i2};...;x_{id}),y_i \in \{1, 0\}$  
 **过程：**    
 1. 初始化模型参数：$w\in R^n, b \in R$;
 2. 建立对数几率回归模型：
